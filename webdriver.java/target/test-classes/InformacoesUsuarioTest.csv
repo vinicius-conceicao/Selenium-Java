@@ -1,0 +1,6 @@
+testAdicionarUmaInformacaoAdicionalDoUsuario,tipo,contato,mensagem,Duration(ms),Duration(ms)
+"",Phone,+55989891121,Your contact has been added!,630.0,630.0
+"",Phone,+55989891123,Your contact has been added!,568.0,568.0
+"",Phone,+55989891124,Your contact has been added!,566.0,566.0
+"",E-mail,teste@testes.com.br,Your contact has been added!,576.0,576.0
+"",E-mail,teste2@testes.com.br,Your contact has been added!,598.0,598.0
